@@ -1,3 +1,7 @@
+Volledige naam: Stef van Stipdonk
+UserId: Stef-van-Stipdonk
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
